@@ -16,17 +16,8 @@ A simple Flutter app. based on SQFlite database to signup/login and apply simple
 
 ## Screenshots
 
-![1](./working-screenshots/1.png =250x250)
-![2](./working-screenshots/2.png =250x250)
-![3](./working-screenshots/3.png =250x250)
-![4](./working-screenshots/4.png)
-![5](./working-screenshots/5.png)
-![6](./working-screenshots/6.png)
-![7](./working-screenshots/7.png)
-![8](./working-screenshots/8.png)
-![9](./working-screenshots/9.png)
-![10](./working-screenshots/10.png)
-![11](./working-screenshots/11.png)
+<img src="./working-screenshots/1.png" alt="1" width="250" height="250">
+
 
 
 ------------------------------------------------------------------------------------------------
